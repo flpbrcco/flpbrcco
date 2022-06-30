@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flpbrcco
 - 👀 I’m interested, and I think that is enought!
-- 🌱 I’m currently learning Python & C_lang family to a good base.
+- 🌱 I’m currently learning Python & C_lang family for a good base.
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me? You're here! :D
   or: filipe.bc@live.com
