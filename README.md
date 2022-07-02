@@ -5,7 +5,9 @@
 
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark)
 
+<!--START_SECTION:waka-->
 [![Filipe Barros's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=flpbrcco)](https://github.com/flpbrcco/github-readme-stats)
+<!--END_SECTION:waka-->
 
 - 👀 I’m interested, and I think that is enough!
 
